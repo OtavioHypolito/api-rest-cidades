@@ -3,7 +3,7 @@
 ## Ferramentas
 
 * Linux
-* Gi
+* Git
 * Java 8
 * Docker
 * IntelliJ Community
